@@ -1,6 +1,12 @@
+import Footer from "./layouts/Footer"
+import Header from "./layouts/Header"
+
 function App() {
   return (
-    <h1 className="text-3xl font-bold text-green-600">Conduit ishlayapti!</h1>
+    <>
+      <Header />
+      <Footer />
+    </>
   )
 }
 
