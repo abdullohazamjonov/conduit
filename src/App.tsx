@@ -1,5 +1,5 @@
 import Footer from "./layouts/Footer"
-import Header from "./layouts/Header"
+import  Header from "./layouts/Header"
 import Home from "./pages/Home"
 import SignIn from "./pages/SignIn"
 import SignUp from "./pages/SignUp"
@@ -15,7 +15,6 @@ function App() {
       </main>
       <Footer />
     </div>
-
   )
 }
 
