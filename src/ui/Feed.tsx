@@ -4,7 +4,7 @@ import Button from "./Button";
 export default function Feed() {
   return (
     <div className="mx-50 mt-5 mr-120">
-        <section className="border-r border-gray-200">
+        <section className="border-r border-gray-200 mb-10">
             <div className="px-4 pt-6 pb-10">
                 <div className="mb-20">
                     <div className="relative border-b border-gray-300">
